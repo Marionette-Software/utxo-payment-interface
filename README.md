@@ -42,4 +42,4 @@
 
 **Instruction to add BTC PI or its fork:** https://tunex.atlassian.net/wiki/spaces/ID/pages/52527456/Bitcoin
 
-**Some close BTC forks (like LTC, for example) can run in the same original UTXO PI. Other forks will require some API calls adjustments.**
+**Some close BTC forks (like LTC, for example) can run on the same original UTXO PI. Other forks will require some API calls adjustments.**
