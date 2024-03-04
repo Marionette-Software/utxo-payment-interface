@@ -39,3 +39,7 @@
 
 **Now let's get started!**
 
+**What is Payment Interface?:** https://tunex.atlassian.net/wiki/spaces/ID/pages/52527393/Payment+Interfaces
+
+**Instruction to add BTC PI or its fork:** https://tunex.atlassian.net/wiki/spaces/ID/pages/52527456/Bitcoin
+
